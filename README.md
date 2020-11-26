@@ -12,6 +12,8 @@
 
 시스템 구성도
 <img width="451" alt="system" src="https://user-images.githubusercontent.com/75090084/100384615-e235bc00-3063-11eb-85ff-ed01cfcc1b12.png">
+
+
 강의 수강 프로세스
 <img width="466" alt="process" src="https://user-images.githubusercontent.com/75090084/100384689-10b39700-3064-11eb-90da-8ab7b70e0c83.png">
 
