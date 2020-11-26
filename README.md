@@ -10,7 +10,7 @@
 #### 2. 해결방안
 - 서비스 프로세스
 시스템 구성도
-
+<img width="451" alt="system" src="https://user-images.githubusercontent.com/75090084/100384615-e235bc00-3063-11eb-85ff-ed01cfcc1b12.png">
 강의 수강 프로세스
 
 
